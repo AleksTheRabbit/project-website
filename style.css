@@ -1,0 +1,123 @@
+.main_div{
+    width: 1320px;
+    max-height: 1080px;
+    background: white;
+    position: absolute;
+    margin: 0 auto; 
+}
+.content{
+    width: 1280px;
+    margin-left: 26px;
+}
+h1{ 
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: black;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.green{
+    color: #77a466;
+}
+nav{
+    height: 30px;
+    width: 535px;
+    float: right;
+    display:inline-block;
+    margin-top: 48px;
+}
+.text-nav{
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #77a466;
+    margin-left: 20px;
+}
+.head-image{
+    width: 1280px;
+    border-top: 3px solid #77a466;
+    border-bottom: 3px solid #77a466;
+}
+.greeting{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #77a466;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.par-text{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.right-mid-box{
+    width: 365px;
+    height: 210px;
+    display: inline-block;
+    border-top: 1px solid #dddadb;
+    border-left: 1px solid #dddadb;
+    border-bottom: 1px solid #dddadb;
+    float: left;
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-right:30px;
+}
+#left-box {
+    width: 420px;
+    height: 210px;
+    display: inline-block;
+    border-top: 1px solid #dddadb;
+    border-bottom: 1px solid #dddadb;
+    float: left;
+    padding-top: 25px;
+}
+.sub_heading{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.text-left{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 500;
+    color: #77a466;
+    margin-top: 30px;
+}
+/*added some properties to another classes
+.mid-right-subh{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-left: 30px;
+}*/
+#f-prop{
+    display: inline-block;
+    width: 100%;
+}
+.footer-h{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    margin: 30px;
+}
+#fresh{
+    font-family: 'Dancing Script';
+    color: #77a466;
+    text-transform: lowercase;
+}
